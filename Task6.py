@@ -7,7 +7,6 @@
 
 385916 -> yes
 123456 -> no
-
 '''
 
 NumOfTicket = input()
